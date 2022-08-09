@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi! I'm Guillermo 👋
+
+Hello! My name is Guillermo Uscudum!
+
+I was born in 1995 and right now I'm living in Artigas, Uruguay.
+
+### Education 👨🏻‍🎓
+
+Feb. 2017 | Computer Science Teacher - ANEP, CeRP del Litoral / Salto, Uruguay.
+
+Nov. 2018 | Testing Remote - Jóvenes a Programar / Plan Ceibal, Uruguay.
+
+Ago. 2020 | Programmer - Programa b_IT / CUTI, INEFOP / Uruguay.
+
+Jun. 2021 | IT Analyst - Programa b_IT / CUTI, INEFOP / Uruguay.
 
 <!--
 **Uscudum/Uscudum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
