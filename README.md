@@ -29,3 +29,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uscudum&show_icons=true&count_private=true&hide=stars,issues&theme=highcontrast)](https://github.com/uscudum/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uscudum&layout=compact)](https://github.com/uscudum/github-readme-stats)
