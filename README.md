@@ -32,6 +32,16 @@ Here are some ideas to get you started:
 
 
 
+
+
+<h2 align="center">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+<p align="center">
+  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+
 ### 🛠️ Languages and Tools:
 <br>
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a>
