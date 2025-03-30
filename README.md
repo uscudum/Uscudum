@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Guillermo Uscudum
 
 🎓 **Especialista en Robótica e Inteligencia Artificial** (UTEC, 2023)  
-📍 Artigas, Uruguay  
-🧑‍🏫 Docente de Programación | Desarrollador de Software | Apasionado por la Educación y la Tecnología
+📍 Salto, Uruguay  
+Docente de Robótica y Programación | Apasionado por la Educación y la Tecnología
 
 ---
 
@@ -46,14 +46,13 @@
 - Visión por Computador y Machine Learning  
 - Tecnología aplicada a la educación  
 - Sistemas embebidos con micro:bit, Arduino y Raspberry Pi  
-- Diseño e implementación de objetos de aprendizaje digitales
 
 ---
 
-<h2 align="center">
-  Mi actividad en GitHub <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="40">
-</h2>
+
+<h2 align="center">📈 Estadísticas de GitHub</h2>
 
 <p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uscudum&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
 </p>
+
