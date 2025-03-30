@@ -1,6 +1,5 @@
 # 👋 ¡Hola! Soy Guillermo Uscudum
 
-🎓 **Especialista en Robótica e Inteligencia Artificial** (UTEC, 2023)  
 📍 Salto, Uruguay  
 Docente de Robótica y Programación | Apasionado por la Educación y la Tecnología
 
